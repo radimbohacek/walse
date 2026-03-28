@@ -1,0 +1,41 @@
+---
+title: 'Bruckner Sinfonie 6'
+author: 'Anton Bruckner'
+date: 2025-03-25
+place: "Philharmonie"
+orchester: "Staatskapelle Berlin"
+conductor: "Christian Thielemann"
+soloists: ""
+description: ""
+tags: ["Koncert", "Bruckner", "Berlin", "Thielemann"]
+cover:
+    image: "images/cover.jpg"
+    caption: "Staatskapelle Berlin"
+    relative: false
+showToc: false
+TocOpen: false
+hidemeta: false
+comments: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+draft: false
+---
+
+|   |  |
+|:---|:---|
+| Conductor | Christian Thielemann |
+| Orchestra | Staatskapelle Berlin |
+
+|   |  |
+|:--|:--|
+| **Hans Werner Henze** | Sebastian im Traum | 
+| **Anton Brukner** | Sinfonie Nr. 6 A-Dur |
+
+
+
