@@ -107,7 +107,10 @@
     <loc>https://walse.cz/tags/lohengrin/</loc>
     <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/program/20260331-semper-parsifal/</loc>
+    <loc>https://walse.cz/opera/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20260331-semper-parsifal/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/parsifal/</loc>
@@ -119,7 +122,7 @@
     <loc>https://walse.cz/tags/bach/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/program/20260330-johannes-passion/</loc>
+    <loc>https://walse.cz/opera/20260330-johannes-passion/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/johannes-passion/</loc>
@@ -134,10 +137,10 @@
     <loc>https://walse.cz/tags/boulez-saal/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/program/20260329-aimard/</loc>
+    <loc>https://walse.cz/opera/20260329-aimard/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/program/20260328-rosenkavalier/</loc>
+    <loc>https://walse.cz/opera/20260328-rosenkavalier/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/rosenkavalier/</loc>
@@ -153,9 +156,6 @@
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/nase/</loc>
-    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://walse.cz/opera/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/schostakowitsch/</loc>
