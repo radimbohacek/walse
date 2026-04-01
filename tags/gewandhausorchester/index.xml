@@ -66,5 +66,33 @@
       <guid>https://walse.cz/opera/20220620-leipzig-feen/</guid>
       <description>Festival Wagner 22</description>
     </item>
+    <item>
+      <title>Bruckner Sinfonie 9</title>
+      <link>https://walse.cz/koncert/20190906-gewandhaus-bruckner-8/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20190906-gewandhaus-bruckner-8/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gewandhausorchester&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Andris Nelsons Dirigent&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Anton Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8. Sinfonie&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
   </channel>
 </rss>

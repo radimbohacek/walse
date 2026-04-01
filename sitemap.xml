@@ -143,7 +143,7 @@
     <loc>https://walse.cz/koncert/20260329-aimard/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/opera/20260328-rosenkavalier/</loc>
+    <loc>https://walse.cz/opera/20260328-staatsoper-rosenkavalier/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/rosenkavalier/</loc>
@@ -262,6 +262,15 @@
   </url><url>
     <loc>https://walse.cz/koncert/20260108-cf-antonini/</loc>
     <lastmod>2026-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/gilbert/</loc>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/nielsen/</loc>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20241219-cf-gilbert/</loc>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/berlioz/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
@@ -431,7 +440,7 @@
     <loc>https://walse.cz/tags/tannhauser/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/opera/20250531-benjamin/</loc>
+    <loc>https://walse.cz/opera/20250531-dox-benjamin/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/into-the-little-hill/</loc>
@@ -447,6 +456,9 @@
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/20250412-staatsoper-parsifal/</loc>
+    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20190615-staatsoper-tristan-barenboim/</loc>
     <lastmod>2025-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/koncert/20250325-staatskapelle-bruckner-6/</loc>
@@ -716,11 +728,59 @@
     <loc>https://walse.cz/opera/20240125-semper-tristan/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://walse.cz/tags/ad%C3%A1mek/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20231207-bp-adamek/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/cherubini/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/medee/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20231203-staatsoper-medee/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20231120-komorni-janacek/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20231025-wien-soddy-otello/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/otello/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/soddy/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20231024-wien-frau-ohne-schatten/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20230427-cf-hrusa/</loc>
+    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/harding/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20230420-cf-harding/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20230418-staatsoper-rosenkavalier/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://walse.cz/opera/20230410-staatsoper-gotterdammerung/</loc>
     <lastmod>2023-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/20230408-staatsoper-siegfried/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/beethoven/</loc>
+    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20230407-staatskapelle-missa/</loc>
+    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/20230405-staatsoper-walkure/</loc>
     <lastmod>2023-04-05T00:00:00+00:00</lastmod>
@@ -780,9 +840,6 @@
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/tags/kupfer/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://walse.cz/tags/soddy/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/20221216-nd-so-rosenkavalier/</loc>
@@ -974,6 +1031,9 @@
     <loc>https://walse.cz/opera/20211116-do-rheingold/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://walse.cz/koncert/20211104-cf-byckov-mahler/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://walse.cz/tags/garan%C4%8Da/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -994,6 +1054,45 @@
   </url><url>
     <loc>https://walse.cz/tags/wiener-staasoper/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20191205-cf-byckov-bruckner/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20191105-dox-xenakis/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/xenakis/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20190906-gewandhaus-bruckner-8/</loc>
+    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20190627-cf-welser-most-strauss/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20190527-madrid-strauss-capriccio/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/capriccio/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/teatro-real/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/bayerische-staatsoper/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20190331-munchen-parsifal/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20190322-nd-jenufa/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/nd-praha/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20190301-semper-hollender/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/19960323-lyric-gotterdammerung/</loc>
     <lastmod>1996-03-23T00:00:00+00:00</lastmod>
