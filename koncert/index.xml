@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.159.1</generator>
+    <generator>Hugo -- 0.159.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/koncert/index.xml" rel="self" type="application/rss+xml" />
@@ -2671,9 +2671,9 @@ Programm&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anton Bruckner Symfonie č. 4 Es dur</title>
-      <link>https://walse.cz/koncert/20191205-cf-byckov-bruckner/</link>
+      <link>https://walse.cz/koncert/20191205-cf-bruckner-bychkov/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20191205-cf-byckov-bruckner/</guid>
+      <guid>https://walse.cz/koncert/20191205-cf-bruckner-bychkov/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -2818,6 +2818,122 @@ Programm&lt;/p&gt;</description>
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Česká filharmonie&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Luciano Berio Sinfonia pro 8 hlasů a orchestr</title>
+      <link>https://walse.cz/koncert/20181018-cf-berio-bychkov/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20181018-cf-berio-bychkov/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Luciano Berio&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sinfonia pro 8 hlasů a orchestr&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Antonín Dvořák&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 7 d moll op. 70&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;London Voices&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Semjon Byčkov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title> Antonín Dvořák Koncert pro violoncello a orchestr h moll</title>
+      <link>https://walse.cz/koncert/20180228-cf-bruckner-capucon/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20180228-cf-bruckner-capucon/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Antonín Dvořák&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Koncert pro violoncello a orchestr h moll op. 104&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Petr Iljič Čajkovskij&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 4 f moll op. 36&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gautier Capuçon&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violoncello&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Semjon Byčkov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Anton Bruckner Symfonie č. 8 c moll</title>
+      <link>https://walse.cz/koncert/20180131-cf-bruckner-luisi/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20180131-cf-bruckner-luisi/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Anton Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 8 c moll&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Johannes Brahms Symfonie č. 4 </title>
+      <link>https://walse.cz/koncert/20160315-cf-brahms-zweden/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20160315-cf-brahms-zweden/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bartok&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Houslový koncert č. 2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Frank Peter Zimmermann&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;housle&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jaap van Zweden&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>

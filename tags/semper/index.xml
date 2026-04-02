@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.159.1</generator>
+    <generator>Hugo -- 0.159.2</generator>
     <language>cs</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/tags/semper/index.xml" rel="self" type="application/rss+xml" />
@@ -224,6 +224,13 @@
       <link>https://walse.cz/opera/20190301-semper-hollender/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/opera/20190301-semper-hollender/</guid>
+      <description>.</description>
+    </item>
+    <item>
+      <title>Ariadne auf Naxos</title>
+      <link>https://walse.cz/opera/20181208-semper-ariadne-thielemann/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20181208-semper-ariadne-thielemann/</guid>
       <description>.</description>
     </item>
   </channel>

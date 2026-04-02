@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Luisi on Walse</title>
+    <link>https://walse.cz/tags/luisi/</link>
+    <description>Recent content in Luisi on Walse</description>
+    <image>
+      <title>Walse</title>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+    </image>
+    <generator>Hugo -- 0.159.2</generator>
+    <language>cs</language>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://walse.cz/tags/luisi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anton Bruckner Symfonie č. 8 c moll</title>
+      <link>https://walse.cz/koncert/20180131-cf-bruckner-luisi/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20180131-cf-bruckner-luisi/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Anton Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 8 c moll&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -458,9 +458,6 @@
     <loc>https://walse.cz/opera/20250412-staatsoper-parsifal/</loc>
     <lastmod>2025-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/opera/20190615-staatsoper-tristan-barenboim/</loc>
-    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://walse.cz/koncert/20250325-staatskapelle-bruckner-6/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -1055,7 +1052,10 @@
     <loc>https://walse.cz/tags/wiener-staasoper/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://walse.cz/koncert/20191205-cf-byckov-bruckner/</loc>
+    <loc>https://walse.cz/opera/20200101-covid/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20191205-cf-bruckner-bychkov/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/koncert/20191105-dox-xenakis/</loc>
@@ -1069,6 +1069,9 @@
   </url><url>
     <loc>https://walse.cz/koncert/20190627-cf-welser-most-strauss/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20190615-staatsoper-tristan-barenboim/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/20190527-madrid-strauss-capriccio/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
@@ -1093,6 +1096,105 @@
   </url><url>
     <loc>https://walse.cz/opera/20190301-semper-hollender/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20181208-semper-ariadne-thielemann/</loc>
+    <lastmod>2018-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/aridne-auf-naxos/</loc>
+    <lastmod>2018-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20181018-cf-berio-bychkov/</loc>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20180829-bayreuth-walkure/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20180705-dutch-benjamin/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/ndm-ostrava/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20180624-ndm-ostrava-haba/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/h%C3%A1ba/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/p%C5%99ij%C4%8F-kr%C3%A1lovstv%C3%AD-tv%C3%A9/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20180228-cf-bruckner-capucon/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20180131-cf-bruckner-luisi/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/luisi/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20180128-nd-billy-bud/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/billy-budd/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/britten/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20171017-nd-julietta/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/julietta/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/nd-/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20171012-wien-debussy-pelleas/</loc>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/pelleas-et-melisande/</loc>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20170806-bayreuth-tristan/</loc>
+    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20170805-bayreuth-parsifal/</loc>
+    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/semperoper/</loc>
+    <lastmod>2017-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20170129-semper-siegfried/</loc>
+    <lastmod>2017-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20170113-roh-benjamin/</loc>
+    <lastmod>2017-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/written-on-skin/</loc>
+    <lastmod>2017-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/koncert/20160315-cf-brahms-zweden/</loc>
+    <lastmod>2016-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/van-zweden/</loc>
+    <lastmod>2016-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20160220-semper-walkure/</loc>
+    <lastmod>2016-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/walk%C3%BCre/</loc>
+    <lastmod>2016-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/orango/</loc>
+    <lastmod>2016-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/opera/20160108-nd-sostakovic-orango/</loc>
+    <lastmod>2016-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walse.cz/tags/%C5%A1ostakovi%C4%8D/</loc>
+    <lastmod>2016-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walse.cz/opera/19960323-lyric-gotterdammerung/</loc>
     <lastmod>1996-03-23T00:00:00+00:00</lastmod>

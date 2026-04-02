@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.159.1</generator>
+    <generator>Hugo -- 0.159.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/index.xml" rel="self" type="application/rss+xml" />
@@ -2346,13 +2346,6 @@ Balet Opery Národního divadla&lt;/p&gt;</description>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/opera/20250412-staatsoper-parsifal/</guid>
       <description>Festtage 2025</description>
-    </item>
-    <item>
-      <title>Tristau und Isolde</title>
-      <link>https://walse.cz/opera/20190615-staatsoper-tristan-barenboim/</link>
-      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20190615-staatsoper-tristan-barenboim/</guid>
-      <description>Festtage 2019</description>
     </item>
     <item>
       <title>Bruckner Sinfonie 6</title>
@@ -7468,10 +7461,17 @@ Programm&lt;/p&gt;</description>
       <description>Kancelářský zmar</description>
     </item>
     <item>
+      <title>Covid</title>
+      <link>https://walse.cz/opera/20200101-covid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20200101-covid/</guid>
+      <description>&lt;p&gt;Nic než epidemie.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anton Bruckner Symfonie č. 4 Es dur</title>
-      <link>https://walse.cz/koncert/20191205-cf-byckov-bruckner/</link>
+      <link>https://walse.cz/koncert/20191205-cf-bruckner-bychkov/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20191205-cf-byckov-bruckner/</guid>
+      <guid>https://walse.cz/koncert/20191205-cf-bruckner-bychkov/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -7619,6 +7619,13 @@ Programm&lt;/p&gt;</description>
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Tristau und Isolde</title>
+      <link>https://walse.cz/opera/20190615-staatsoper-tristan-barenboim/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20190615-staatsoper-tristan-barenboim/</guid>
+      <description>Festtage 2019</description>
     </item>
     <item>
       <title>Capriccio</title>
@@ -7898,6 +7905,1001 @@ Programm&lt;/p&gt;</description>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/opera/20190301-semper-hollender/</guid>
       <description>.</description>
+    </item>
+    <item>
+      <title>Ariadne auf Naxos</title>
+      <link>https://walse.cz/opera/20181208-semper-ariadne-thielemann/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20181208-semper-ariadne-thielemann/</guid>
+      <description>.</description>
+    </item>
+    <item>
+      <title>Luciano Berio Sinfonia pro 8 hlasů a orchestr</title>
+      <link>https://walse.cz/koncert/20181018-cf-berio-bychkov/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20181018-cf-berio-bychkov/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Luciano Berio&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sinfonia pro 8 hlasů a orchestr&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Antonín Dvořák&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 7 d moll op. 70&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;London Voices&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Semjon Byčkov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Die Walküre Bayreuther Festspiele</title>
+      <link>https://walse.cz/opera/20180829-bayreuth-walkure/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20180829-bayreuth-walkure/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Inscenation&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Frank Castorf&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Conductor&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Placido Domingo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Brünnhilde&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Catherine Foster&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Wotan&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;John Lundgren&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Siegmund&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stephen Gould&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sieglinde&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Anja Kampe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Fricka&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marina Prudenskaya&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hunding&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tobias Kehrer&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gerhilde&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Caroline Wenborne&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ortlinde&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christiane Kohl&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Waltraute&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Simone Schröder&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Schwertleite&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marina Prudenskaya&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Helmwige&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Regine Hangler&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Siegrune&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mareike Morr&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Grimgerde&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mika Kaneko&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Rossweisse&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alexandra Petersamer&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180829-bayreuth-walkure/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180829-bayreuth-walkure/images/photo-2.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>George Benjamin Lessons in Love and Violence</title>
+      <link>https://walse.cz/opera/20180705-dutch-benjamin/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20180705-dutch-benjamin/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;music&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;George Benjamin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;musical direction&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;George Benjamin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;libretto&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Martin Crimp&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;direction&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Katie Mitchell&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;set design, costume&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Vicki Mortimer&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;light design&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;James Farncombe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;director of movement&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Joseph Alford&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Radio Philharmonic Orchestra&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;soloists&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stéphane Degout, Barbara Hannigan, Gyula Orendt, Peter Hoare, Andri Björn Róbertsson, Jennifer France, Krisztina Szabo, Samuel Boden&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;production&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dutch National Opera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;coproduction&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dutch National Opera (London), Royal Opera House - Covent Garden (London) (London), Hamburgische Staatsoper (London), Lyric Opera (London), Opera national de Lyon (London)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;After the overwhelming success of Written on Skin in the 2012/13 season at the Dutch National Opera, British composer George Benjamin returns with Lessons in Love and Violence, his long-&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alois Hába Přijď království Tvé</title>
+      <link>https://walse.cz/opera/20180624-ndm-ostrava-haba/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20180624-ndm-ostrava-haba/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alois Hába (1893–1973)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Přijď království Tvé&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Opera o třech jednáních a sedmi obrazech pro 26 pěveckých sól, smíšený sbor a orchestr, podtitul Nezaměstnaní (op. 50), 1937–1942&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Libreto&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alois Hába, upravil Ferdinand Pujman&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dirigent&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bruno Ferrandis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Režie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jiří Nekvasil&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Scéna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;David Bazika&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Divadlo Jiřího Myrona&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;NODO / Dny nové opery Ostrava 2018&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pořádá Ostravské centrum nové hudby a NDM&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cast&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Michaela Šrůmová, Kamila Mazalová, Marek Olbrzymek, Juraj Nociár, Josef Moravec, Vojtěch Šembera, Josef Škarka, David Nykl&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Canticum Ostrava (choirmaster Jurij Galatenko)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ostravská banda, ONO / Ostrava New Orchestra&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;já-alois-hába-z-vizovic&#34;&gt;Já, Alois Hába z Vizovic…&lt;/h3&gt;
+&lt;p&gt;Alois Hába (1893–1973) představuje vůdčí osobnost české skladatelské moderny meziválečného období. Je představitelem „nového typu“ kompoziční práce – půl- tónových, čtvrttónových a šestinotóno- vých skladeb. Ve všech jeho oblastech činnosti – kompoziční, pedagogické i or- ganizační – se projevovala jeho zásadní vlastnost, odvaha vykročit na půdu, na niž se dosud nikdo neodvážil. Hábova cílevě- domost, neústupnost a široké mezinárodní kontakty znamenaly pro meziválečnou čes- koslovenskou kulturu obrovský potenciál.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Antonín Dvořák Koncert pro violoncello a orchestr h moll</title>
+      <link>https://walse.cz/koncert/20180228-cf-bruckner-capucon/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20180228-cf-bruckner-capucon/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Antonín Dvořák&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Koncert pro violoncello a orchestr h moll op. 104&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Petr Iljič Čajkovskij&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 4 f moll op. 36&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gautier Capuçon&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violoncello&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Semjon Byčkov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Anton Bruckner Symfonie č. 8 c moll</title>
+      <link>https://walse.cz/koncert/20180131-cf-bruckner-luisi/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20180131-cf-bruckner-luisi/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Anton Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 8 c moll&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Billy Budd</title>
+      <link>https://walse.cz/opera/20180128-nd-billy-bud/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20180128-nd-billy-bud/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dirigent&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christopher Ward&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dramaturgie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jitka Slavíková&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Choreografie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Radim Vizváry&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kostýmy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marek Cpin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hudební nastudování&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christopher Ward&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Režie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Špinar&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sbormistr&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Adolf Melichar&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Scéna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lucia Škandíková&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sbormistr Kühnova dětského sboru&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jiří Chvála&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Role&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Billy Budd&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christopher Bolduc&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kapitán Vere&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Štefan Margita&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;John Claggart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gidon Saks&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Redburn&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jiří Brückler&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;První důstojník&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jiří Brückler&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Flint&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Adrian Clarke&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ratcliffe&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pavel Švingr&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Druhý důstojník&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pavel Švingr&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Red Whiskers (Rudovous)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Václav Sibera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Donald&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Klánský&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dansker&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Roman Astakhov&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nováček&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jan Petryka&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Plavčík&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jan Petryka&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nováčkův přítel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Luboš Skala&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Squeak (Piskloun)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Václav Cikánek, Václav Vallon&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bosun (Loďmistr)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stefan Astakhov&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Arthur Jones&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Michal Bragagnolo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stěžňová hlídka&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Michal Bragagnolo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Námořní kadeti&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kühnův dětský sbor&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-4.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-5.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-6.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-7.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-8.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20180128-nd-billy-bud/images/photo-9.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bohuslav Martinů  Juliette (Snář)</title>
+      <link>https://walse.cz/opera/20171017-nd-julietta/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20171017-nd-julietta/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hudební nastudování a dirigent&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jaroslav Kyzlink&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Režie a scéna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Zuzana Gilhuus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kostýmy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tomáš Kypta&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Choreografie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Radim Vizváry&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sbormistr&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pavel Vaněk&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dramaturgie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beno Blachut ml.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Juliette&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alžběta Poláčková&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Michel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Peter Berger&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Komisař / Listonoš / Lesní hlídač / Strojvedoucí&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ondřej Koplík&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Úředník&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Petr Levíček&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Starý Arab / Trestanec&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jevhen Šokalo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Malý Arab / Poslíček&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Michaela Zajmi&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hadač&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stanislava Jirků&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Muž v okně / Obchodník se vzpomínkami&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jiří Hájek&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Muž s helmou / Hlas šéfa za scénou&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marek Gurbaľ&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1. obchodnice (s ptáky)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lucie Hájková&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2. obchodnice (s rybami) / Babička&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lenka Šmídová&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stařec Mládí / Žebrák&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jan Šťáva&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dědeček / Starý námořník&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ivan Kusnjer&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mladý námořník&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Michal Bragagnolo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Noční hlídač&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Milan Stehlík&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Orchestr a sbor Národního divadla&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Pelleas et Melisande</title>
+      <link>https://walse.cz/opera/20171012-wien-debussy-pelleas/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20171012-wien-debussy-pelleas/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dirigent&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Harding&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Regie, Bühne und Licht&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marco Arturo Marelli&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kostüme&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dagmar Niefind / Niefind-Marelli&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chorleitung&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Martin Schebesta&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Arkel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Peter Rose&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Geneviève&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Janina Baechle&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pelléas&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bernard Richter&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Golaud&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Simon Keenlyside&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mélisande&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christiane Karg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Yniold&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Maria Nazarova&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ein Arzt&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marcus Pelz&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Vater von Pelléas&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Andreas Bettinger&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Tristan und Isolde</title>
+      <link>https://walse.cz/opera/20170806-bayreuth-tristan/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20170806-bayreuth-tristan/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Musikalische Leitung&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christian Thielemann&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Regie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Katharina Wagner&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bühne&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Frank Philipp Schlößmann, Matthias Lippert&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kostüm&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Thomas Kaiser&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dramaturgie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Weber&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Licht&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reinhard Traub †&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chorleitung&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Eberhard Friedrich&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tristan&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stephen Gould&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marke&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;René Pape&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Isolde&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Petra Lang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kurwenal&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Iain Paterson&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Melot&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Raimund Nolte&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Brangäne&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christa Mayer&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ein Hirt&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tansel Akzeybek&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ein Steuermann&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kay Stiefermann&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Junger Seemann&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tansel Akzeybek&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20170806-bayreuth-tristan/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20170806-bayreuth-tristan/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20170806-bayreuth-tristan/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20170806-bayreuth-tristan/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parsifal Bayreuther Festspiele</title>
+      <link>https://walse.cz/opera/20170805-bayreuth-parsifal/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20170805-bayreuth-parsifal/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Musikalische Leitung&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marek Janowski&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Regie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Uwe Eric Laufenberg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bühne&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gisbert Jäkel&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kostüm&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jessica Karge&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Licht&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reinhard Traub †&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Video&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gérard Naziri&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dramaturgie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Lorber&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chorleitung&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Eberhard Friedrich&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Amfortas&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ryan McKinny&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Titurel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Günther Groissböck&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gurnemanz&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Georg Zeppenfeld&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Parsifal&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Andreas Schager&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Klingsor&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Werner Van Mechelen&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kundry&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Elena Pankratova&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20170805-bayreuth-parsifal/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20170805-bayreuth-parsifal/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20170805-bayreuth-parsifal/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20170805-bayreuth-parsifal/images/photo-4.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/opera/20170129-semper-siegfried/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20170129-semper-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>George Benjamin Written on Skin</title>
+      <link>https://walse.cz/opera/20170113-roh-benjamin/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20170113-roh-benjamin/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Company&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;The Royal Opera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Inscenation&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Katie Mitchell&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Venue&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Royal Opera House, Covent Garden, London&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Conductor&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;George Benjamin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concert Master&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Vasko Vassilev&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Angle 2/Marie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Victoria Simmonds&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Angle 3/John&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mark Padmore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Angel 1/The Boy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Iestyn Davies&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;The Protector A Landowner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christopher Purves&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Agnès His wife&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Barbara Hannigan&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;The Orchestra of the Royal Opera House&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;An outstanding development in playwright Martin Crimp’s later career is his writing of texts for contemporary operas by George Benjamin, one of the leading composers of his generation: Written on Skin, a full-length opera, opened at the Festival d’Aix-en-Provence in 2012 in a superb production directed by Katie Mitchell. Now it is visiting London.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Johannes Brahms Symfonie č. 4 </title>
+      <link>https://walse.cz/koncert/20160315-cf-brahms-zweden/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20160315-cf-brahms-zweden/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bartok&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Houslový koncert č. 2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symfonie č. 4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Frank Peter Zimmermann&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;housle&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jaap van Zweden&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Die Walküre</title>
+      <link>https://walse.cz/opera/20160220-semper-walkure/</link>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20160220-semper-walkure/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Orango (Opera)</title>
+      <link>https://walse.cz/opera/20160108-nd-sostakovic-orango/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/20160108-nd-sostakovic-orango/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Spoluúčinkuje Kühnův smíšený sbor. S&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Šostakovič, Antiformalistický jarmark (o)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Autor libreta&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alexej Nikolajevič Tolstoj, Alexandr Starčakov&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dirigent&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jan Kučera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dramaturgie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ondřej Hučín, Pavel Graus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kostýmy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marija Havran&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Režie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sláva Daubnerová&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sbormistr&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marek Vorlíček&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Scéna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marija Havran&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bavič, Hlas Oranga&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Roman Janál (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Basové sólo&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jevhen Šokalo (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;První cizinec&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Vladimír Doležal (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Druhý cizinec&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jan Markvart (Vlastní)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Zoolog&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Václav Sibera (Vlastní)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Zuzana&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Eliška Gattringerová (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Paul Mache&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jiří Hruška (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Armand Fleury&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jaroslav Novák (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Renée&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pavla Popelková (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hlas z davu&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pavel Borek (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Orango&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Martina Hajdyla Lacová (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nasťa Terpsichorová, tanečnice&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jade Clayton (Host)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Klavír&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Martin Levický (Vlastní)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-4.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-5.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-6.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-7.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-8.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-9.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-10.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-11.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-12.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-13.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-14.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-15.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-16.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-17.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-18.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20160108-nd-sostakovic-orango/images/photo-19.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gotterdammerung</title>
