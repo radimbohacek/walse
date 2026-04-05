@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.159.2</generator>
+    <generator>Hugo -- 0.160.0</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/tags/thielemann/index.xml" rel="self" type="application/rss+xml" />
@@ -675,6 +675,38 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20210801-salzburg-bruckner-7/images/photo-1.jpg&#34;&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20210801-salzburg-bruckner-7/images/photo-2.jpg&#34;&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20210801-salzburg-bruckner-7/images/photo-3.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Christian Thielemann CSO: Beethoven </title>
+      <link>https://walse.cz/koncert/19930312-cso-thielemann-beethoven/</link>
+      <pubDate>Fri, 12 Mar 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930312-cso-thielemann-beethoven/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christian Thielemann&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 6, Pastoral&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

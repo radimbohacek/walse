@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.159.2</generator>
+    <generator>Hugo -- 0.160.0</generator>
     <language>cs</language>
     <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/tags/koncert/index.xml" rel="self" type="application/rss+xml" />
@@ -401,9 +401,9 @@
     </item>
     <item>
       <title>Nielsen Symfonie N. 5</title>
-      <link>https://walse.cz/koncert/20241219-cf-gilbert/</link>
+      <link>https://walse.cz/koncert/20241219-cf-gilbert-gerstein/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20241219-cf-gilbert/</guid>
+      <guid>https://walse.cz/koncert/20241219-cf-gilbert-gerstein/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -3003,6 +3003,90 @@ Programm&lt;/p&gt;</description>
 &lt;/table&gt;</description>
     </item>
     <item>
+      <title>Kremerata Baltica: Schnittke</title>
+      <link>https://walse.cz/koncert/20160914-rudolfinum-kremerata/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20160914-rudolfinum-kremerata/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Georgs Pelecis (1947)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“Janus” for violin and string orchestra&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Antonin Dvorak (1841-1904)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nocturne for strings, op.40 B.47&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Astor Piazzolla (1921-1992)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“Four Seaons of Buenos Aires” (arr. for violin and string orchestra by L.Desyatnikov)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alfred Schnittke (1934-1998)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concerto Grosso No.1 for two violins, prepared piano, harpsichord and string orchestra&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gidon Kremer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Clara Jumi Kang&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kremerata Baltica&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Česká filharmonie: Beethoven a Dvořák</title>
+      <link>https://walse.cz/koncert/20160427-cf-honeck-mutter-dvorak/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20160427-cf-honeck-mutter-dvorak/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Martinů&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Památník Lidicím h 296&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dvořák&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Houslový koncert a moll op. 53&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;symfonie č. 7 a dur op. 92&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Anne-Sophie Mutter&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;housle&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Manfred Honeck&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Česká filharmonie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
       <title>Johannes Brahms Symfonie č. 4 </title>
       <link>https://walse.cz/koncert/20160315-cf-brahms-zweden/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
@@ -3030,6 +3114,534 @@ Programm&lt;/p&gt;</description>
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Jaap van Zweden&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Ravel  Klavírní koncert pro levou ruku</title>
+      <link>https://walse.cz/koncert/20160217-cf-belohlavek-gerstein/</link>
+      <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20160217-cf-belohlavek-gerstein/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Debussy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Faunovo odpoledne&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ravel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Klavírní koncert č. 1 g dur&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ravel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Klavírní koncert pro levou ruku&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kirill Gerstein&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;klavír&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jiří Bělohlávek&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dirigent&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Česká filharmonie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim CSO: Schoenberg Verklärte Nacht</title>
+      <link>https://walse.cz/koncert/19940212-cso-barenboim-schoenberg/</link>
+      <pubDate>Sat, 12 Feb 1994 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19940212-cso-barenboim-schoenberg/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Radu Lupu&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Grosse Fuge&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Schoenberg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Verklärte Nacht&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim CSO: Bruckner Mass No. 2</title>
+      <link>https://walse.cz/koncert/19940204-cso-barenboim-bruckner-mass/</link>
+      <pubDate>Fri, 04 Feb 1994 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19940204-cso-barenboim-bruckner-mass/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Chorus&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Peter Serkin&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pamela Frank&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Schoenberg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Friede auf Erden&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Berg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chamber Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mass No. 2&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim Mozart Piano Concerti</title>
+      <link>https://walse.cz/koncert/19940128-cso-barenboim-mozart/</link>
+      <pubDate>Fri, 28 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19940128-cso-barenboim-mozart/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor, piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 19&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Rondo in D major, K. 382&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 24&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim CSO: Bruckner 6</title>
+      <link>https://walse.cz/koncert/19940114-cso-barenboim-bruckner/</link>
+      <pubDate>Fri, 14 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19940114-cso-barenboim-bruckner/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gidon Kremer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Berg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 6&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Zubin Mehta in Chicago: Schubert Symphony No. 9 the Great</title>
+      <link>https://walse.cz/koncert/19931217-cso-mehta-schubert/</link>
+      <pubDate>Fri, 17 Dec 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19931217-cso-mehta-schubert/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Zubin Mehta&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Webern&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Passacaglia&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Webern&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Six Pieces for Orchestra&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Webern&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Schubert&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 9, Great&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim CSO: Bruckner 5</title>
+      <link>https://walse.cz/koncert/19930522-cso-barenboim-bruckner/</link>
+      <pubDate>Sat, 22 May 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930522-cso-barenboim-bruckner/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim CSO: Bruckner 4</title>
+      <link>https://walse.cz/koncert/19930520-cso-barenboim-bruckner/</link>
+      <pubDate>Thu, 20 May 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930520-cso-barenboim-bruckner/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Haydn&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 48, Maria Teresa&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 4&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Barenboim CSO: Brahms Symphony No. 3</title>
+      <link>https://walse.cz/koncert/19930518-cso-barenboim-brahms/</link>
+      <pubDate>Tue, 18 May 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930518-cso-barenboim-brahms/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Itzhak Perlman&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Prokofiev&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 3&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Barenboim CSO: Brahms Symphony No. 1</title>
+      <link>https://walse.cz/koncert/19930514-cso-barenboim-brahms/</link>
+      <pubDate>Fri, 14 May 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930514-cso-barenboim-brahms/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Itzhak Perlman&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mendelssohn&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Ludwig van Beethoven CSO: Missa Solemnis</title>
+      <link>https://walse.cz/koncert/19930430-cso-barenboim-beethoven/</link>
+      <pubDate>Fri, 30 Apr 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930430-cso-barenboim-beethoven/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Chorus&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Missa solemnis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tina Kiberg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;soprano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Waltraud Meier&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;mezzo-soprano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;John Aler&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;tenor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Robert Holl&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;bass&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Christian Thielemann CSO: Beethoven </title>
+      <link>https://walse.cz/koncert/19930312-cso-thielemann-beethoven/</link>
+      <pubDate>Fri, 12 Mar 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930312-cso-thielemann-beethoven/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Christian Thielemann&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 6, Pastoral&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim Mozart Piano Concerto, Scheherazade </title>
+      <link>https://walse.cz/koncert/19930205-cso-barenboim-mozart/</link>
+      <pubDate>Fri, 05 Feb 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930205-cso-barenboim-mozart/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor, piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Melinda Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Falling Angels&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Rimsky-Korsakov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Scheherazade&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim CSO: Sibelius Violin Concerto</title>
+      <link>https://walse.cz/koncert/19930122-cso-barenboim-sibelius/</link>
+      <pubDate>Fri, 22 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930122-cso-barenboim-sibelius/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Maxim Vengerov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Rimsky-Korsakov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;The Tale of Tsar Saltan, Suite&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sibelius&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tchaikovsky&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 4&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>

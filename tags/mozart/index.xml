@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.159.2</generator>
+    <generator>Hugo -- 0.160.0</generator>
     <language>cs</language>
     <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/tags/mozart/index.xml" rel="self" type="application/rss+xml" />
@@ -225,6 +225,78 @@
 &lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20240227-staatsoper-mozart-idomenee/images/photo-7.jpg&#34;&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20240227-staatsoper-mozart-idomenee/images/photo-8.jpg&#34;&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20240227-staatsoper-mozart-idomenee/images/photo-9.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim Mozart Piano Concerti</title>
+      <link>https://walse.cz/koncert/19940128-cso-barenboim-mozart/</link>
+      <pubDate>Fri, 28 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19940128-cso-barenboim-mozart/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor, piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 19&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Rondo in D major, K. 382&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 24&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim Mozart Piano Concerto, Scheherazade </title>
+      <link>https://walse.cz/koncert/19930205-cso-barenboim-mozart/</link>
+      <pubDate>Fri, 05 Feb 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930205-cso-barenboim-mozart/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor, piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Melinda Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Falling Angels&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Rimsky-Korsakov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Scheherazade&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
