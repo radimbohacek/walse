@@ -232,9 +232,9 @@
     </item>
     <item>
       <title>Tannhauser</title>
-      <link>https://walse.cz/koncert/20260219-cf-byckov/</link>
+      <link>https://walse.cz/koncert/20260219-cf-byckov-wagner-tannauser/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260219-cf-byckov/</guid>
+      <guid>https://walse.cz/koncert/20260219-cf-byckov-wagner-tannauser/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Fleur Barron, mezzosoprán&lt;/li&gt;
 &lt;li&gt;Semjon Byčkov, dirigent&lt;/li&gt;
@@ -262,9 +262,9 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf-byckov/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf-byckov/images/photo-1.webp&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf-byckov/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf-byckov-wagner-tannauser/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf-byckov-wagner-tannauser/images/photo-1.webp&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260219-cf-byckov-wagner-tannauser/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zlato Rýna</title>
@@ -617,16 +617,16 @@
     </item>
     <item>
       <title>Der fliegende Holländer</title>
-      <link>https://walse.cz/opera/20240125-semper-hollender/</link>
+      <link>https://walse.cz/opera/20240125-semper-hollander/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20240125-semper-hollender/</guid>
+      <guid>https://walse.cz/opera/20240125-semper-hollander/</guid>
       <description>.</description>
     </item>
     <item>
-      <title>Die Walkure</title>
-      <link>https://walse.cz/koncert/20240829-grafenegg/</link>
+      <title>Richard Wagner Die Walkure</title>
+      <link>https://walse.cz/koncert/20240829-grafenegg-heras-casado-walkure/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20240829-grafenegg/</guid>
+      <guid>https://walse.cz/koncert/20240829-grafenegg-heras-casado-walkure/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -801,9 +801,9 @@
     </item>
     <item>
       <title>Česká filharmonie: Manfred Honeck</title>
-      <link>https://walse.cz/koncert/20230112-cf-honeck/</link>
+      <link>https://walse.cz/koncert/20230112-cf-honeck-schmidt-4/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20230112-cf-honeck/</guid>
+      <guid>https://walse.cz/koncert/20230112-cf-honeck-schmidt-4/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -1169,9 +1169,9 @@
     </item>
     <item>
       <title>Der fliegende Holländer</title>
-      <link>https://walse.cz/opera/20190301-semper-hollender/</link>
+      <link>https://walse.cz/opera/20190301-semper-hollander/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20190301-semper-hollender/</guid>
+      <guid>https://walse.cz/opera/20190301-semper-hollander/</guid>
       <description>.</description>
     </item>
     <item>
@@ -1439,6 +1439,300 @@
     </item>
     <item>
       <title>Gotterdammerung</title>
+      <link>https://walse.cz/opera/1999-06-24-sf-gotterdammerung/</link>
+      <pubDate>Thu, 24 Jun 1999 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/1999-06-24-sf-gotterdammerung/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Die Walkure</title>
+      <link>https://walse.cz/opera/1999-06-19-sf-walkure/</link>
+      <pubDate>Tue, 22 Jun 1999 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/1999-06-19-sf-walkure/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Siegfried</title>
+      <link>https://walse.cz/opera/1999-06-22-sf-siegfried/</link>
+      <pubDate>Tue, 22 Jun 1999 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/1999-06-22-sf-siegfried/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Das Rheingold</title>
+      <link>https://walse.cz/opera/1999-06-15-sf-rheingold/</link>
+      <pubDate>Tue, 15 Jun 1999 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/1999-06-15-sf-rheingold/</guid>
+      <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Tristan und Isolde</title>
+      <link>https://walse.cz/opera/1998-11-06-sf-tristan/</link>
+      <pubDate>Fri, 06 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/1998-11-06-sf-tristan/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Conductor&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Donald Runnicles&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stage Director&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Michael Hampe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Designer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mauro Pagano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lighting Designer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Thomas J. Munn&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chorus Director&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ian Robertson&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sailor&amp;rsquo;s Voice&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Norman Shankle&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Isolde&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Elizabeth Connell&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Brangäne&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violeta Urmana&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Kurwenal&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tom Fox&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tristan&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Wolfgang Schmidt&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Melot&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;John Robert Autry&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;King Marke&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Victor von Halem&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Shepherd&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Walker&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Steersman&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jere Torkelsen&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-4.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-5.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/1998-11-06-sf-tristan/images/photo-6.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lohengrin</title>
+      <link>https://walse.cz/opera/19990105-met-lohengrin/</link>
+      <pubDate>Sat, 17 Oct 1998 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/19990105-met-lohengrin/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lohengrin&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ben Heppner&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Elsa&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Karita Mattila&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ortrud&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Deborah Polaski&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Telramund&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Falk Struckmann&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;King Heinrich&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;René Pape&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Herald&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Eike Wilm Schulte&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gottfried&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sebastian Uriarte&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Noble&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Thomas Studebaker&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Noble&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tim Willson&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Noble&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gary Martin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Noble&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Vernon&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Page&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alexander Waldron&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Conductor&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;James Levine&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Production&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Robert Wilson&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Set Designer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Robert Wilson&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Costume Designer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Frida Parmeggiani&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lighting Designer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Heinrich Brunke&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lighting Concept&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Robert Wilson&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19990105-met-lohengrin/images/photo-1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19990105-met-lohengrin/images/photo-2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19990105-met-lohengrin/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19990105-met-lohengrin/images/photo-4.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19990105-met-lohengrin/images/photo-5.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19990105-met-lohengrin/images/photo-6.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/19990105-met-lohengrin/images/photo-7.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zubin Mehta, CSO: Paul Hindemith Mathis der Maler Symphony </title>
+      <link>https://walse.cz/koncert/19980220-cso-mehta-hindemith-mathis/</link>
+      <pubDate>Fri, 20 Feb 1998 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19980220-cso-mehta-hindemith-mathis/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Zubin Mehta&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;A Faust Overture&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Paul Hindemith&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mathis der Maler Symphony&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Der fliegende Holländer</title>
+      <link>https://walse.cz/opera/19970601-michigan-hollander/</link>
+      <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/19970601-michigan-hollander/</guid>
+      <description>.</description>
+    </item>
+    <item>
+      <title>Takashi Asahina, CSO: Bruckner 9</title>
+      <link>https://walse.cz/koncert/19961024-cso-asahina-bruckner-9/</link>
+      <pubDate>Thu, 24 Oct 1996 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19961024-cso-asahina-bruckner-9/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Takashi Asahina&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Die Meistersinger von Nürnberg, Prelude&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Anton Bruckner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 9&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Gotterdammerung</title>
       <link>https://walse.cz/opera/19960323-lyric-gotterdammerung/</link>
       <pubDate>Sat, 23 Mar 1996 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/opera/19960323-lyric-gotterdammerung/</guid>
@@ -1464,6 +1758,222 @@
       <pubDate>Mon, 18 Mar 1996 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/opera/19960318-lyric-rheingold/</guid>
       <description>Der Ring des Nibelungen</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim, CSO: Richard Wagner Parsifal,  Götterdämmerung</title>
+      <link>https://walse.cz/koncert/19960125-cso-barenboim-wagner-parsifal/</link>
+      <pubDate>Thu, 25 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19960125-cso-barenboim-wagner-parsifal/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;André Watts&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Parsifal, Prelude Act 1 and Good Friday Music&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Franz Liszt&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 2 (24, 25)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Franz Liszt&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 1 (26)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Franz Liszt&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Totentanz&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Götterdämmerung, Siegfried’s Death and Funeral Music&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim, CSO: Ludwig van Beethoven Violin Concerto</title>
+      <link>https://walse.cz/koncert/19951012-cso-barenboim-beethoven-violin/</link>
+      <pubDate>Thu, 12 Oct 1995 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19951012-cso-barenboim-beethoven-violin/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Anne-Sophie Mutter&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Parsifal, Prelude Act 1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Höller&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Aura&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ludwig van Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim, CSO: Antonín Dvořák Piano Concerto</title>
+      <link>https://walse.cz/koncert/19950310-cso-barenboim-dvorak-piano/</link>
+      <pubDate>Fri, 10 Mar 1995 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19950310-cso-barenboim-dvorak-piano/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Francis Akos&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;András Schiff&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Antonín Dvořák&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Romance for Violin and Orchestra&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Antonín Dvořák&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piotr Iljich Tchaikovsky&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Romeo and Juliet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tristan und Isolde, Prelude and Liebestod&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim, CSO: Igor Stravinsky The Rite of Spring</title>
+      <link>https://walse.cz/koncert/19940506-cso-barenboim-stravinski-rite/</link>
+      <pubDate>Fri, 06 May 1994 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19940506-cso-barenboim-stravinski-rite/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Yo-Yo Ma&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;cello&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lohengrin, Prelude Act 1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Robert Schumann&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cello Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Igor Stravinsky&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;The Rite of Spring&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim, CSO: Schoenberg Fives Pieces for Orchestra</title>
+      <link>https://walse.cz/koncert/19931002-cso-barenboim-schoenberg-five-pieces/</link>
+      <pubDate>Sat, 02 Oct 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19931002-cso-barenboim-schoenberg-five-pieces/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pinchas Zukerman&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ludwig van Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Arnold Schoenberg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Fives Pieces for Orchestra&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tannhäuser, Overture&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

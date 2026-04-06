@@ -15,9 +15,9 @@
     <atom:link href="https://walse.cz/tags/brahms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ein Deutsches Requiem</title>
-      <link>https://walse.cz/koncert/20260125-staatskapelle-deutshes-requiem/</link>
+      <link>https://walse.cz/koncert/20260125-staatskapelle-thielemann-deutsches-requiem/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20260125-staatskapelle-deutshes-requiem/</guid>
+      <guid>https://walse.cz/koncert/20260125-staatskapelle-thielemann-deutsches-requiem/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -44,7 +44,7 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260125-staatskapelle-deutshes-requiem/images/brahms-2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/koncert/20260125-staatskapelle-thielemann-deutsches-requiem/images/brahms-2.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;german-and-english-text&#34;&gt;German and English text&lt;/h3&gt;
 &lt;p&gt;The German text below was selected by Brahms from the Lutheran Bible. The English is from the King James Bible.&lt;/p&gt;
 &lt;table&gt;
@@ -186,9 +186,9 @@
     </item>
     <item>
       <title>Ein deutsches Requiem</title>
-      <link>https://walse.cz/koncert/20240213-dresden-gedenken/</link>
+      <link>https://walse.cz/koncert/20240213-dresden-thielemann-brahms-deutsche-requiem/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20240213-dresden-gedenken/</guid>
+      <guid>https://walse.cz/koncert/20240213-dresden-thielemann-brahms-deutsche-requiem/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Julia Kleiter, Sopran&lt;/p&gt;
@@ -211,9 +211,9 @@
     </item>
     <item>
       <title>Johannes Brahms Symfonie č. 4 </title>
-      <link>https://walse.cz/koncert/20160315-cf-brahms-zweden/</link>
+      <link>https://walse.cz/koncert/20160315-cf-zweden-brahms-4/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20160315-cf-brahms-zweden/</guid>
+      <guid>https://walse.cz/koncert/20160315-cf-zweden-brahms-4/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -242,10 +242,366 @@
 &lt;/table&gt;</description>
     </item>
     <item>
-      <title>Barenboim CSO: Brahms Symphony No. 3</title>
-      <link>https://walse.cz/koncert/19930518-cso-barenboim-brahms/</link>
+      <title>Daniel Barenboim, CSO: Brahms Symphony No. 2</title>
+      <link>https://walse.cz/koncert/19990114-cso-barenboim-brahms-2/</link>
+      <pubDate>Thu, 14 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19990114-cso-barenboim-brahms-2/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Radu Lupu&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pierre Boulez&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Notations VII&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Wolfgang Amadeus Mozart&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 23&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 3&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim, CSO: Giya Kancheli Lament, Music of Mourning in Memory of Luigi Nono</title>
+      <link>https://walse.cz/koncert/19981022-cso-barenboim-kancheli/</link>
+      <pubDate>Thu, 22 Oct 1998 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19981022-cso-barenboim-kancheli/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gidon Kremer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Katharina Kammerloher&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;mezzo-soprano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Giya Kancheli&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lament, Music of Mourning in Memory of Luigi Nono&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 4&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Zubin Mehta, CSO: Paul Hindemith Mathis der Maler Symphony </title>
+      <link>https://walse.cz/koncert/19980220-cso-mehta-hindemith-mathis/</link>
+      <pubDate>Fri, 20 Feb 1998 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19980220-cso-mehta-hindemith-mathis/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Zubin Mehta&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;A Faust Overture&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Paul Hindemith&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mathis der Maler Symphony&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto No. 1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Barenboim, CSO: Johannes Brahms Double Concerto</title>
+      <link>https://walse.cz/koncert/19960928-cso-barenboim-brahms-double/</link>
+      <pubDate>Sat, 28 Sep 1996 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19960928-cso-barenboim-brahms-double/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Itzhak Perlman&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Yo Yo Ma&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;cello&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Handel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Solomon, Arrival of the Queen of Sheba&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Double Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Eliott Carter&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Adagio Tenebroso&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Maurice Ravel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daphnis et Chloé, Suite No. 2&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Barenboim, CSO: Johannes Brahms Violin Concerto</title>
+      <link>https://walse.cz/koncert/19971018-cso-barenboim-brahms-violin/</link>
+      <pubDate>Sat, 28 Sep 1996 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19971018-cso-barenboim-brahms-violin/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Maxim Vengerov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ludwig van Beethoven&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Alban Berg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Three Pieces for Orchestra&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Riccardo Chailly, CSO: Leoš Janáček Sinfonietta</title>
+      <link>https://walse.cz/koncert/19960316-cso-chailly-janacek-sinfonietta/</link>
+      <pubDate>Sat, 16 Mar 1996 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19960316-cso-chailly-janacek-sinfonietta/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Riccardo Chailly&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Rossini&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;William Tell Overture&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Leoš Janáček&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sinfonietta&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Barenboim, CSO: Schoenberg Verklärte Nacht</title>
+      <link>https://walse.cz/koncert/19941004-cso-barenboim-schoenberg-verklarte-nacht/</link>
+      <pubDate>Tue, 04 Oct 1994 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19941004-cso-barenboim-schoenberg-verklarte-nacht/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Maxim Vengerov&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;violin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Violin Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Arnold Schoenberg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Verklärte Nacht&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Richard Wagner&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Die Meistersinger, Prelude&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Barenboim, CSO: Brahms Symphony No. 2</title>
+      <link>https://walse.cz/koncert/19931008-cso-barenboim-brahms-2/</link>
+      <pubDate>Fri, 08 Oct 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19931008-cso-barenboim-brahms-2/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ravel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Le tombeau de Couperin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ran&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Legends&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 2&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Barenboim, CSO: Brahms Symphony No. 4</title>
+      <link>https://walse.cz/koncert/19930928-cso-barenboim-brahms-4/</link>
+      <pubDate>Tue, 28 Sep 1993 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19930928-cso-barenboim-brahms-4/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Barenboim&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;conductor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Academic Festival Overture&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Variations on a Theme by Haydn&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 4&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Barenboim, CSO: Brahms Symphony No. 3</title>
+      <link>https://walse.cz/koncert/19930518-cso-barenboim-brahms-3/</link>
       <pubDate>Tue, 18 May 1993 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/19930518-cso-barenboim-brahms/</guid>
+      <guid>https://walse.cz/koncert/19930518-cso-barenboim-brahms-3/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -278,10 +634,10 @@
 &lt;/table&gt;</description>
     </item>
     <item>
-      <title>Barenboim CSO: Brahms Symphony No. 1</title>
-      <link>https://walse.cz/koncert/19930514-cso-barenboim-brahms/</link>
+      <title>Barenboim, CSO: Brahms Symphony No. 1</title>
+      <link>https://walse.cz/koncert/19930514-cso-barenboim-brahms-1/</link>
       <pubDate>Fri, 14 May 1993 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/19930514-cso-barenboim-brahms/</guid>
+      <guid>https://walse.cz/koncert/19930514-cso-barenboim-brahms-1/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;

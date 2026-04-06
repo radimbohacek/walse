@@ -307,9 +307,9 @@
     </item>
     <item>
       <title>Leoš Janáček Glagolitic Mass</title>
-      <link>https://walse.cz/koncert/20220225-cf-byckov-janacek/</link>
+      <link>https://walse.cz/koncert/20220225-cf-byckov-janacek-glagol/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20220225-cf-byckov-janacek/</guid>
+      <guid>https://walse.cz/koncert/20220225-cf-byckov-janacek-glagol/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -471,6 +471,42 @@
 &lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20190322-nd-jenufa/images/photo-13.jpg&#34;&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20190322-nd-jenufa/images/photo-14.jpg&#34;&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20190322-nd-jenufa/images/photo-15.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Riccardo Chailly, CSO: Leoš Janáček Sinfonietta</title>
+      <link>https://walse.cz/koncert/19960316-cso-chailly-janacek-sinfonietta/</link>
+      <pubDate>Sat, 16 Mar 1996 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19960316-cso-chailly-janacek-sinfonietta/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Riccardo Chailly&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Rossini&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;William Tell Overture&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Leoš Janáček&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sinfonietta&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Johannes Brahms&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

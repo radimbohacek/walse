@@ -15,16 +15,23 @@
     <atom:link href="https://walse.cz/tags/hollander/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Der fliegende Holländer</title>
-      <link>https://walse.cz/opera/20240125-semper-hollender/</link>
+      <link>https://walse.cz/opera/20240125-semper-hollander/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20240125-semper-hollender/</guid>
+      <guid>https://walse.cz/opera/20240125-semper-hollander/</guid>
       <description>.</description>
     </item>
     <item>
       <title>Der fliegende Holländer</title>
-      <link>https://walse.cz/opera/20190301-semper-hollender/</link>
+      <link>https://walse.cz/opera/20190301-semper-hollander/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/opera/20190301-semper-hollender/</guid>
+      <guid>https://walse.cz/opera/20190301-semper-hollander/</guid>
+      <description>.</description>
+    </item>
+    <item>
+      <title>Der fliegende Holländer</title>
+      <link>https://walse.cz/opera/19970601-michigan-hollander/</link>
+      <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/opera/19970601-michigan-hollander/</guid>
       <description>.</description>
     </item>
   </channel>

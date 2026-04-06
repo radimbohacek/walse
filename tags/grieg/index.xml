@@ -15,9 +15,9 @@
     <atom:link href="https://walse.cz/tags/grieg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grieg a Andsnes</title>
-      <link>https://walse.cz/koncert/20250424-cf-hrusa-andsnes/</link>
+      <link>https://walse.cz/koncert/20250424-cf-hrusa-andsnes-grieg-piano/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/koncert/20250424-cf-hrusa-andsnes/</guid>
+      <guid>https://walse.cz/koncert/20250424-cf-hrusa-andsnes-grieg-piano/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -69,6 +69,50 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Dirigent Jakub Hrůša nabízí další neotřelý program uplatňující princip dramaturgického kontrastu. Zahájí jej světová premiéra Pavla Zemka Nováka, následovaná skvostem klavírní literatury v podání brilantního Leifa Ove Andsnese. Po Griegovi čeká posluchače sugestivní Vokální symfonie Vladimíra Sommera, kterou Česká filharmonie nastuduje už počtvrté.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Leif Segerstam, CSO: Carl Nielsen Symphony No. 6</title>
+      <link>https://walse.cz/koncert/19971204-cso-sederstam-nielsen-6/</link>
+      <pubDate>Thu, 04 Dec 1997 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/19971204-cso-sederstam-nielsen-6/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chicago Symphony Orchestra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Leif Segerstam&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ignat Solzhenitsyn&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;piano&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Leif Segerstam&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;February&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Edvard Grieg&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Piano Concerto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Carl Nielsen&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Symphony No. 6, Sinfonia semplice&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jean Sibelius&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Finlandia&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
