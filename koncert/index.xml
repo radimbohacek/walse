@@ -9,10 +9,27 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.160.1</generator>
+    <generator>Hugo -- 0.161.1</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/koncert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Česká filharmonie</title>
+      <link>https://walse.cz/koncert/20260519-cf-hrusa/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/koncert/20260519-cf-hrusa/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/photo-1.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Johannes-Passion</title>
       <link>https://walse.cz/koncert/20260330-konzerthaus-johannes-passion/</link>
@@ -2701,7 +2718,7 @@ Programm&lt;/p&gt;</description>
       <description>Iannis Xenakis: 
  Orchestrální díla Iannise Xenakise&lt;br&gt;
  DOX.
- Tuesday, November 5, 2019&lt;br&gt;
+ úterý 5. listopadu 2019&lt;br&gt;
 
  Ostrava New Orchestra,
  Petr Kotík&lt;br&gt;

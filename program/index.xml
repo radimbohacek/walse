@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.160.1</generator>
+    <generator>Hugo -- 0.161.1</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/program/index.xml" rel="self" type="application/rss+xml" />
@@ -21,7 +21,7 @@
       <description>Richard Wagner: 
  Rienzi&lt;br&gt;
  Bayreuther Festspiele.
- Monday, August 3, 2026&lt;br&gt;
+ pondělí 3. srpna 2026&lt;br&gt;
  Režie: Šeredná Pardytka&lt;br&gt; 
  Bayreuther Festspiele Orchester,
  Nathalie Stutzmann&lt;br&gt;
@@ -30,6 +30,13 @@
 &lt;br&gt;
 
 &lt;p&gt;Rienzi, Wagnerova třetí opera, byla kdysi jeho největším úspěchem. Bayreuthská verze pro rok 2026 zastává tezi, že kdyby v roce 1871 vznikla „konečná“ verze, Rienzi by si zcela jistě našel své místo v bayreuthském kánonu děl „od Bludného Holanďana“. Deset děl takzvaného „bayreuthského kánonu“ totiž nevychází ani z poslední vůle, ani z rozhodujících formulací v zakládací listině Nadace Richarda Wagnera v Bayreuthu, ale výhradně z dopisů Wagnera králi Ludvíkovi II. Bavorskému z roku 1882.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Die Walkure</title>
+      <link>https://walse.cz/program/20260708-munich-walkure/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/program/20260708-munich-walkure/</guid>
+      <description>&lt;p&gt;Richard Wagner wrote Die Walküre as the second of four parts of the powerful musical theatre epic, Der Ring des Nibelungen, which is based on the Medieval Nibelungenlied and old Norse god sagas. Wotan, the highest god, has fathered twins with a mortal woman – Siegmund and Sieglinde. These two in turn have a child, in which Wotan sees his dominion consolidated. His wife Fricka defies his plans and, as protector of the traditional marriage rites, demands Siegmund’s death. Wotan reluctantly agrees, although it will cause a split with his favourite daughter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Česká filharmonie</title>
@@ -102,7 +109,7 @@
       <description>Antonín Dvořák: 
  Rusalka&lt;br&gt;
  ND.
- Saturday, May 30, 2026&lt;br&gt;
+ sobota 30. května 2026&lt;br&gt;
  Režie: SKUTR&lt;br&gt; 
  Orchestr ND,
  David Švec&lt;br&gt;
@@ -205,7 +212,7 @@
       <description>Richard Strauss: 
  Die schweigsame Frau&lt;br&gt;
  Staatsoper Unter den Linden.
- Monday, May 25, 2026&lt;br&gt;
+ pondělí 25. května 2026&lt;br&gt;
 
  Staatskapelle Berlin,
  Christian Thielemann&lt;br&gt;
@@ -237,30 +244,6 @@
 &lt;li&gt;Antoine Lederlin – violoncello&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Rezidenční umělkyně Pražského jara 2026 Barbara Hannigan patří k nejoriginálnějším osobnostem světa klasické hudby. S neohrožeností sobě vlastní zpívá a diriguje, inspiruje k tvorbě nejlepší skladatele současnosti a vytváří jedinečné projekty přesahující běžnou koncertní praxi. Rodačka z Kanady premiérovala více než stovku skladeb. Spolupracuje s nejlepšími světovými orchestry a dirigenty včetně Berlínských filharmoniků. Je hlavní hostující dirigentkou Göteborského symfonického orchestru, pyšní se pozicemi umělecké partnerky Londýnského symfonického orchestru, první hostující umělkyně Filharmonického orchestru Francouzského rozhlasu a na podzim roku 2026 se stane šéfdirigentkou a uměleckou ředitelkou Islandského symfonického orchestru. Její výjimečný umělecký profil dokresluje řada prestižních ocenění, mimo jiné cena Grammy, titul umělec roku časopisu Gramophone nebo Polar Music Prize 2025, švédská hudební cena založená vydavatelem a manažerem skupiny ABBA Stigem Andersonem, kterou získala spolu s jazzmanem Herbiem Hancockem a kapelou Queen. Její pražskojarní rezidence nabídne čtyři koncerty.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Česká filharmonie</title>
-      <link>https://walse.cz/program/20260519-cf-hrusa/</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260519-cf-hrusa/</guid>
-      <description>&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/photo-1.jpg&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Siegfried</title>
-      <link>https://walse.cz/program/20260513-roh-siegfried/</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260513-roh-siegfried/</guid>
-      <description>Der Ring des Nibelungen</description>
     </item>
   </channel>
 </rss>
