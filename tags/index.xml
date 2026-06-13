@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.162.0</generator>
+    <generator>Hugo -- 0.163.0</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
     <item>
       <title>Opera</title>
       <link>https://walse.cz/tags/opera/</link>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/opera/</guid>
       <description></description>
     </item>
@@ -126,6 +126,27 @@
       <description></description>
     </item>
     <item>
+      <title>ND</title>
+      <link>https://walse.cz/tags/nd/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/nd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puccini</title>
+      <link>https://walse.cz/tags/puccini/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/puccini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turandot</title>
+      <link>https://walse.cz/tags/turandot/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/turandot/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dvořák</title>
       <link>https://walse.cz/tags/dvo%C5%99%C3%A1k/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
@@ -137,13 +158,6 @@
       <link>https://walse.cz/tags/ensemble-modern/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/ensemble-modern/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ND</title>
-      <link>https://walse.cz/tags/nd/</link>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/nd/</guid>
       <description></description>
     </item>
     <item>
@@ -627,13 +641,6 @@
       <link>https://walse.cz/tags/benjamin/</link>
       <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/benjamin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Puccini</title>
-      <link>https://walse.cz/tags/puccini/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/puccini/</guid>
       <description></description>
     </item>
     <item>
@@ -1502,6 +1509,20 @@
       <link>https://walse.cz/tags/%C5%A1ostakovi%C4%8D/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/%C5%A1ostakovi%C4%8D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operan</title>
+      <link>https://walse.cz/tags/operan/</link>
+      <pubDate>Thu, 08 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/operan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tristan Und Isolde</title>
+      <link>https://walse.cz/tags/tristan-und-isolde/</link>
+      <pubDate>Thu, 08 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/tristan-und-isolde/</guid>
       <description></description>
     </item>
     <item>
