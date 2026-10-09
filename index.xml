@@ -457,9 +457,9 @@
     </item>
     <item>
       <title>Mazeppa</title>
-      <link>https://walse.cz/program/20261001-frankfurt-mazeppa/</link>
+      <link>https://walse.cz/opera/20261001-frankfurt-mazeppa/</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20261001-frankfurt-mazeppa/</guid>
+      <guid>https://walse.cz/opera/20261001-frankfurt-mazeppa/</guid>
       <description>Peter I. Tschaikowski: 
  Mazeppa&lt;br&gt;
  Oper Frankfurt.
@@ -561,13 +561,13 @@
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/program/20261001-frankfurt-mazeppa/images/photo-1.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://walse.cz/opera/20261001-frankfurt-mazeppa/images/photo-1.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zaide</title>
-      <link>https://walse.cz/program/20260930-frankfurt-zaide/</link>
+      <link>https://walse.cz/opera/20260930-frankfurt-zaide/</link>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/program/20260930-frankfurt-zaide/</guid>
+      <guid>https://walse.cz/opera/20260930-frankfurt-zaide/</guid>
       <description>Wolfgang Amadeus Mozart: 
  Zaide&lt;br&gt;
  Oper Frankfurt.
@@ -15196,6 +15196,84 @@ Richard Wagner: Tristan und Isolde - Isolde
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Zdroje&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/forumopera.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.forumopera.com/&#34;&gt;Forumopera (FR)&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/tipberlin.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.tip-berlin.de/kultur/&#34;&gt;tipBerlin&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/theberliner.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;[The Berliner](&lt;a href=&#34;https://www.the-berliner.com/events/&#34;&gt;https://www.the-berliner.com/events/&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/falter.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.falter.at/events&#34;&gt;Falter (AT)&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/mf.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.muenchner-feuilleton.de/&#34;&gt;Muenchner Feuilleton&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/bachtrack.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://bachtrack.com/&#34;&gt;bachtrack&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/black.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/ddb.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.die-deutsche-buehne.de/&#34;&gt;Die Deutsche Buhne&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/black.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/black.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
 					&lt;th style=&#34;text-align: left&#34;&gt;Německo&lt;/th&gt;
 					&lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
 					&lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
@@ -15356,6 +15434,18 @@ Richard Wagner: Tristan und Isolde - Isolde
 &lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.theater-wien.at/en/calendar&#34;&gt;Theater an der Wien&lt;/a&gt;&lt;/td&gt;
 			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/erl.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.tiroler-festspiele.at/&#34;&gt;Tiroler Festspiele Erl&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/tadw.jpg&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.theater-wien.at/en/calendar&#34;&gt;Theater an der Wien&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table&gt;
@@ -15436,6 +15526,18 @@ Richard Wagner: Tristan und Isolde - Isolde
 &lt;/figure&gt;
 &lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.teatroallascala.org/en/index.html&#34;&gt;La Scala&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/cecilia.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://santacecilia.it/en/concerts-calendar/&#34;&gt;L&amp;rsquo;Accademia Nazionale di Santa Cecilia&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/roma.png&#34; height=&#34;50px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.operaroma.it/&#34;&gt;Teatro Dell&amp;rsquo;Opera di Roma&lt;/a&gt;&lt;/td&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
@@ -15583,60 +15685,24 @@ Richard Wagner: Tristan und Isolde - Isolde
 	&lt;tbody&gt;
 			&lt;tr&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/black.png&#34; height=&#34;50px&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/black.png&#34; height=&#34;50px&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/black.png&#34; height=&#34;50px&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-     &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
- &lt;/figure&gt;
-&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;images/&#34; height=&#34;50px&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/black.png&#34; height=&#34;50px&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
