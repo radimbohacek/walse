@@ -9,7 +9,7 @@
       <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
       <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
-    <generator>Hugo -- 0.165.0</generator>
+    <generator>Hugo -- 0.169.0</generator>
     <language>cs</language>
     <lastBuildDate>Sun, 13 Dec 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://walse.cz/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -37,21 +37,42 @@
     <item>
       <title>Koncert</title>
       <link>https://walse.cz/tags/koncert/</link>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/koncert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ariadne</title>
+      <link>https://walse.cz/tags/ariadne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/ariadne/</guid>
       <description></description>
     </item>
     <item>
       <title>Opera</title>
       <link>https://walse.cz/tags/opera/</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/opera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strauss</title>
+      <link>https://walse.cz/tags/strauss/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/strauss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wiener Staatsoper</title>
+      <link>https://walse.cz/tags/wiener-staatsoper/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/wiener-staatsoper/</guid>
       <description></description>
     </item>
     <item>
       <title>Prague Sounds</title>
       <link>https://walse.cz/tags/prague-sounds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/prague-sounds/</guid>
       <description></description>
     </item>
@@ -84,59 +105,52 @@
       <description></description>
     </item>
     <item>
+      <title>Hába</title>
+      <link>https://walse.cz/tags/h%C3%A1ba/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/h%C3%A1ba/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Glass</title>
       <link>https://walse.cz/tags/glass/</link>
-      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/glass/</guid>
       <description></description>
     </item>
     <item>
       <title>Berlin</title>
       <link>https://walse.cz/tags/berlin/</link>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/berlin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Strauss</title>
-      <link>https://walse.cz/tags/strauss/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/strauss/</guid>
       <description></description>
     </item>
     <item>
       <title>Thielemann</title>
       <link>https://walse.cz/tags/thielemann/</link>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/thielemann/</guid>
       <description></description>
     </item>
     <item>
       <title>Altinoglu</title>
       <link>https://walse.cz/tags/altinoglu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/altinoglu/</guid>
       <description></description>
     </item>
     <item>
       <title>Bartok</title>
       <link>https://walse.cz/tags/bartok/</link>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/bartok/</guid>
       <description></description>
     </item>
     <item>
       <title>Blaubarts</title>
       <link>https://walse.cz/tags/blaubarts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/blaubarts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wiener Staatsoper</title>
-      <link>https://walse.cz/tags/wiener-staatsoper/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/wiener-staatsoper/</guid>
       <description></description>
     </item>
     <item>
@@ -347,6 +361,20 @@
       <link>https://walse.cz/tags/puccini/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/puccini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smetana</title>
+      <link>https://walse.cz/tags/smetana/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/smetana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tajemství</title>
+      <link>https://walse.cz/tags/tajemstv%C3%AD/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/tags/tajemstv%C3%AD/</guid>
       <description></description>
     </item>
     <item>
@@ -564,13 +592,6 @@
       <link>https://walse.cz/tags/prodan%C3%A1-nev%C4%9Bsta/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/prodan%C3%A1-nev%C4%9Bsta/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Smetana</title>
-      <link>https://walse.cz/tags/smetana/</link>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/smetana/</guid>
       <description></description>
     </item>
     <item>
@@ -1460,13 +1481,6 @@
       <link>https://walse.cz/tags/ndm-ostrava/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://walse.cz/tags/ndm-ostrava/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hába</title>
-      <link>https://walse.cz/tags/h%C3%A1ba/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://walse.cz/tags/h%C3%A1ba/</guid>
       <description></description>
     </item>
     <item>
