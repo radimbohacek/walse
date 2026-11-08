@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tristan und Isolde on Walse</title>
+    <link>https://walse.cz/dila/tristan-und-isolde/</link>
+    <description>Recent content in Tristan und Isolde on Walse</description>
+    <image>
+      <title>Walse</title>
+      <url>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://walse.cz/images/hans-hotter-wotan-walkure-1955.jpg</link>
+    </image>
+    <generator>Hugo -- 0.169.0</generator>
+    <language>cs</language>
+    <lastBuildDate>Sun, 08 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://walse.cz/dila/tristan-und-isolde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tristan a Isolda: děj a eseje</title>
+      <link>https://walse.cz/dila/tristan-und-isolde/text-dej-a-eseje/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/dila/tristan-und-isolde/text-dej-a-eseje/</guid>
+      <description>Předchozí děj a obsah, Peter Wapnewski, Alex Ross</description>
+    </item>
+    <item>
+      <title>Tristan und Isolde: libreto (anglicky a německy)</title>
+      <link>https://walse.cz/dila/tristan-und-isolde/libreto-en-de/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/dila/tristan-und-isolde/libreto-en-de/</guid>
+      <description>Richard Wagner, anglicky a německy</description>
+    </item>
+    <item>
+      <title>Tristan und Isolde: libreto (německy a česky)</title>
+      <link>https://walse.cz/dila/tristan-und-isolde/libreto-de-cz/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://walse.cz/dila/tristan-und-isolde/libreto-de-cz/</guid>
+      <description>Richard Wagner, německy a česky</description>
+    </item>
+  </channel>
+</rss>
